@@ -8,7 +8,11 @@ Dashboard URL: https://v3-lts-eetestsystem.tooljet.com/invitations/f8a9145d-3ca5
 1. Login with invited credentials.
 2. Copy the correct workspace URL from the dashboard (⚠️ Do not hardcode /app).
 3. Automate:
+   
   3.1. Create: New app (e.g., "Test App")
+  
   3.2. Read: Validate it's listed
+  
   3.3. Update: Rename the app
+  
   3.4. Delete: Remove and confirm deletion
